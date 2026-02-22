@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/my-developerportfolio/static/css/main.3a80d6c4.css",
+    "main.js": "/my-developerportfolio/static/js/main.3995d42f.js",
+    "static/css/64.bba8fa55.chunk.css": "/my-developerportfolio/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/my-developerportfolio/static/js/64.56dc6704.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/my-developerportfolio/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.bda0d7b7.chunk.js": "/my-developerportfolio/static/js/769.bda0d7b7.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/my-developerportfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Agustina.woff": "/my-developerportfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/iit.png": "/my-developerportfolio/static/media/iit.ffdc01293056e72b9a9a.png",
+    "static/media/manOnTable.svg": "/my-developerportfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/Tandojam.jpg": "/my-developerportfolio/static/media/Tandojam.37a7405cb42dfdce2505.jpg",
+    "static/media/contactMailDark.svg": "/my-developerportfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/my-developerportfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/skill.svg": "/my-developerportfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/my-developerportfolio/index.html",
+    "main.3a80d6c4.css.map": "/my-developerportfolio/static/css/main.3a80d6c4.css.map",
+    "main.3995d42f.js.map": "/my-developerportfolio/static/js/main.3995d42f.js.map",
+    "64.bba8fa55.chunk.css.map": "/my-developerportfolio/static/css/64.bba8fa55.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/my-developerportfolio/static/js/64.56dc6704.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/my-developerportfolio/static/css/769.b3cbb36b.chunk.css.map",
+    "769.bda0d7b7.chunk.js.map": "/my-developerportfolio/static/js/769.bda0d7b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a80d6c4.css",
+    "static/js/main.3995d42f.js"
+  ]
+}
