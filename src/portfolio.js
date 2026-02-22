@@ -129,7 +129,7 @@ const educationInfo = {
       schoolName: "Sindh Agriculture University, Tandojam",
       logo: require("./assets/images/Tandojam.jpg"),
       subHeader: "Bachelor of Science in Information Technology",
-      duration: "September 2020 - April 2015",
+      duration: "September 2020 - April 2025",
     }
   ]
 };
