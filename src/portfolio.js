@@ -23,7 +23,7 @@ const greeting = {
   username: "Sahil Solangi",
   title: "Hi all, I'm Sahil",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "passionate Full Stack Software Developer 🚀 having an experience of building Web applications with JavaScript / Reactjs / Nodejs / React.js for frontend and PHP / Laravel for backend along with other cool libraries and frameworks."
   ),
   resumeLink:
     "https://drive.google.com/uc?export=download&id=1Slk8yU7ENzR-DvupWO1Y4i4Xzc-SCTE0", // Set to empty to hide the button
@@ -39,7 +39,6 @@ const socialMediaLinks = {
   gitlab: "https://gitlab.com/sahilsolangi",
   facebook: "https://www.facebook.com/saahil.ayaz",
   medium: "https://medium.com/@sahilsolangi1",
-  stackoverflow: "https://stackoverflow.com/users/10422806/sahil-solangi",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -52,11 +51,11 @@ const skillsSection = {
   subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ Develop highly interactive Frontend / User Interfaces using React.js for web applications"
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    emoji("⚡ Build modern web applications with Single Page Application (SPA) architecture using React.js"),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ Backend development and API integration using PHP and Laravel framework"
     )
   ],
 
@@ -85,16 +84,16 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-react"
     },
     {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
+      skillName: "PHP",
+      fontAwesomeClassname: "fab fa-php"
     },
     {
       // skillName: "swift",
       // fontAwesomeClassname: "fab fa-swift"
     },
     {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
+      skillName: "Laravel",
+      fontAwesomeClassname: "fab fa-laravel"
     },
     {
       skillName: "sql-database",
@@ -113,8 +112,8 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-python"
     },
     {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
+      // skillName: "docker",
+      // fontAwesomeClassname: "fab fa-docker"
     }
   ],
   display: true // Set false to hide this section, defaults to true
